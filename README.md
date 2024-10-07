@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sales data prediction**
 
-- 🌱 I’m currently learning **BE In Artificial Intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
