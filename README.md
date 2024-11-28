@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashaswini U T</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashaswini66&label=Profile%20views&color=0e75b6&style=flat" alt="yashaswini66" /> </p>
 
-- 🌱 I’m currently learning **BE In Artificial Intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **yashuthirumalaiah@gmail.com**
 
